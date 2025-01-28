@@ -1,0 +1,36 @@
+Here are 15 Python questions on classes and objects, ranging from beginner to advanced:
+
+Beginner:
+1. Create a class called `Person` with attributes `name` and `age`. Write a method `introduce()` that prints "My name is [name] and I am [age] years old."
+
+2. Define a class `Rectangle` with attributes `length` and `width`. Write a method `area()` to calculate the area of the rectangle and another method `perimeter()` to calculate the perimeter.
+
+3. Write a class `Car` with attributes `brand`, `model`, and `year`. Add a method `start()` that prints "The [brand] [model] is starting."
+
+4. Create a `Student` class with an attribute `marks` (a list). Add a method `average()` to calculate and return the average of the marks.
+
+5. Write a `BankAccount` class with methods `deposit(amount)` and `withdraw(amount)`. Ensure the balance cannot go below zero.
+
+Intermediate:
+6. Write a class `Employee` that keeps track of employee count. Add a class variable `employee_count` that increments every time a new `Employee` object is created.
+
+7. Create a `Library` class that manages books. Add methods `add_book(title)`, `remove_book(title)`, and `list_books()`.
+
+8. Define a class `Circle` with a class method `from_diameter(diameter)` that creates a `Circle` object using the diameter. Include an instance method `area()` to calculate the area.
+
+9. Create a `Timer` class that uses the `time` module to record the start and end times of an event. Add methods to calculate and display the duration.
+
+10. Write a `Shape` class with a method `area()`. Then create derived classes like `Square` and `Triangle` that override the `area()` method with specific implementations.
+
+Advanced:
+11. Implement a `Zoo` class to manage animals. Use a dictionary to store the number of each type of animal. Add methods to add animals, remove animals, and get a count of all animals.
+
+12. Write a `Game` class that keeps track of player scores. Use a private dictionary to store player names and their scores. Add methods to update scores and display rankings in descending order.
+
+13. Create a `Matrix` class to represent a 2D matrix. Add methods for matrix addition, subtraction, and multiplication.
+
+14. Write a `User` class that implements authentication. Add methods to register a user (store username and password securely using hashing) and validate login credentials.
+
+15. Implement a `Polynomial` class to represent a polynomial (e.g., 3x^2 + 2x + 1). Add methods to evaluate the polynomial for a given value of `x` and to perform addition and subtraction with another polynomial.
+
+Try solving them one by one, and let me know if you need guidance with any of them!
