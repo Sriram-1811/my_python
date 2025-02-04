@@ -1,0 +1,5 @@
+1. ESXI - completed 
+2. troubleshooting tasks in Linux
+3. networking - 
+4. mastering bash scripting
+5. ansible
