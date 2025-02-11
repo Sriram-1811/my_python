@@ -64,3 +64,6 @@ print(E)
 F = A.transpose()
 print("\nTranspose of A:")
 print(F)
+
+G= F.transpose()
+print(G)
