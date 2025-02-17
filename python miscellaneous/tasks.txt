@@ -1,0 +1,47 @@
+That's a great approach! Here are 30 Python questions that cover a mix of topics, ranging from beginner to advanced levels.  
+
+---
+
+### **Beginner Level**
+1. Write a Python program to check if a number is even or odd.  
+2. Write a function to calculate the factorial of a number using recursion.  
+3. Write a program that takes a string and counts the number of vowels in it.  
+4. Write a function to reverse a string without using built-in functions.  
+5. Implement a function that checks if a given string is a palindrome.  
+6. Write a program to find the largest and smallest numbers in a list.  
+7. Create a function that removes all duplicates from a list while maintaining order.  
+8. Write a function to find the second largest number in a list.  
+9. Implement a function that returns the sum of digits of a given number.  
+10. Write a function that merges two dictionaries into one.  
+
+---
+
+### **Intermediate Level**
+11. Implement a function that finds the most frequent element in a list.  
+12. Write a Python program to generate the Fibonacci sequence up to `n` terms using recursion.  
+13. Implement a function to check if two strings are anagrams of each other.  
+14. Write a function to find the intersection of two lists without using `set`.  
+15. Implement a basic calculator using functions (`+`, `-`, `*`, `/`).  
+16. Write a Python script that reads a file and prints the number of words in it.  
+17. Implement a function that checks if a given number is prime.  
+18. Write a program that flattens a nested list (e.g., `[[1,2], [3,[4,5]]]` → `[1,2,3,4,5]`).  
+19. Implement a function to count the occurrences of each character in a string.  
+20. Write a class `Person` with attributes `name` and `age`, and a method `display_info()`.  
+
+---
+
+### **Advanced Level**
+21. Implement a Python decorator that logs the execution time of a function.  
+22. Write a function that performs matrix multiplication without using NumPy.  
+23. Implement a function that serializes and deserializes a Python dictionary using `json`.  
+24. Write a Python script that finds all prime numbers in a given range using the Sieve of Eratosthenes.  
+25. Implement a LRU (Least Recently Used) cache using `OrderedDict`.  
+26. Write a function that finds the longest substring without repeating characters.  
+27. Implement a thread-safe counter using Python's threading module.  
+28. Create a simple REST API using Django that handles CRUD operations.  
+29. Write a Python program that simulates a simple banking system using OOP principles.  
+30. Implement a function to solve the "Tower of Hanoi" problem recursively.  
+
+---
+
+These questions will help you strengthen your Python skills across various topics like data structures, algorithms, OOP, file handling, and advanced concepts like threading and web development.  
